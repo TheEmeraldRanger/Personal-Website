@@ -1,0 +1,31 @@
+.pagemajority {
+    margin-top: 20px;
+}
+
+.details {
+    text-indent: 20px;
+    width:500px;
+}
+
+.sectionhead {
+    padding:5px;
+    width: 200px;
+    color: green;
+    font-size: 27px;
+    font-family: cursive;
+    font-style:italic;
+    font: bolder;
+    text-shadow: 1.5px 1.5px 1.5px black;
+    position: relative;
+    z-index: 2;
+}
+
+.sectionhead2 {
+    font-family: cursive;
+    font-style: italic;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px darkgreen;
+    text-indent: 40px;
+    background: black;
+    color: antiquewhite;
+}

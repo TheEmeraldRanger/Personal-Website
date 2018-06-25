@@ -1,18 +1,16 @@
 body {
-    width: 1420px;
-    height: 1200px;
     margin: 0 auto
 }
 #pageheader * {
     padding:20px;
-    border: 25px solid black;
+    border-bottom: 25px solid black;
     background:darkgreen;
     color: antiquewhite;
     font-size: 40px;
     font-family: cursive;
     font-style:italic;
     text-shadow: 4px 4px 4px black;
-    position: relative;
+    position: static;
     bottom:25px;
     z-index: 2;
 }
@@ -41,4 +39,8 @@ body {
     top: 125px;
     left: 100px;
     z-index: 2;
+}
+
+.buttonlink:hover{
+    background-color: gray;
 }
