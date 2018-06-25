@@ -1,0 +1,47 @@
+#comicname {
+    font-family: cursive;
+    font-style: italic;
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 2px 2px 4px red;
+    background-color: black;
+    color:cornsilk;
+    z-index: 1;
+    position: relative;
+    top: -100px;
+}
+
+#titleimage {
+    background-color: white;
+    size:10px;
+    width: 1200px;
+    height: 400px;
+    position: relative;
+    bottom: 100px;
+    margin-left: 0px;
+    z-index: -1;
+}
+
+.webpagesectionheader {
+    font-family: cursive;
+    font-style: italic;
+    font-size: 32px;
+    background-color: black;
+    color: cornsilk;
+    text-indent: 20px;
+    z-index: 1;
+}
+
+h2 {
+    font-family: cursive;
+    font-style: italic;
+    font-size: 20px;
+    color: black;
+    z-index: 1;
+}
+
+.description {
+    font-size: 18px;
+    font-family: Arial;
+    z-index: 1;
+}
