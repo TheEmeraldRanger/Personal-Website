@@ -1,0 +1,21 @@
+#imageholder {
+    background-color: black;
+    width: 850px;
+    height: 1100px;
+}
+
+#buttons {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    position: relative;
+    left: 425px
+}
+
+#buttons * {
+    background-color: antiquewhite;
+    color:black;
+    border: 2px solid gray;
+    padding:5px;
+
+}

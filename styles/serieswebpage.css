@@ -13,6 +13,7 @@
 
 #titleimage {
     background-color: white;
+    border-bottom: 5px solid black;
     size:10px;
     width: 1425px;
     height: 500px;

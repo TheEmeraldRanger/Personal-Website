@@ -1,26 +1,5 @@
-.pagemajority {
-    margin-top: 100px;
-    background-color: lightcyan;
-}
-
 .details {
     text-indent: 20px;
-}
-
-.sectionhead {
-    padding:5px;
-    border-top: 5px solid black;
-    border-bottom: 5px solid black;
-    background-color: gray;
-    color: green;
-    font-size: 27px;
-    font-family: cursive;
-    font-style:italic;
-    font: bolder;
-    text-shadow: 1.5px 1.5px 1.5px black;
-    text-indent: 200px;
-    position: relative;
-    z-index: 2;
 }
 
 .sectionhead2 {
